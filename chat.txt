@@ -1,0 +1,3 @@
+s1,Veg. Samosa,20,15,1
+s2,Veg. Puff,16,50,1
+s4,Egg Samosa,15,50,1

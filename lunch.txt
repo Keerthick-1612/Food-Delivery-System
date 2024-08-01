@@ -1,0 +1,5 @@
+l1,Curd Rice,43,50,10
+l2,Meals,250,50
+l3,Fried Rice,78,120,15
+l4,Noodles,84,120,8
+l5,xyz,3,100,5

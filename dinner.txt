@@ -1,0 +1,4 @@
+d1,Chapathi,58,57,5
+d2,Parotta,260,100,10
+d3,Fried Rice,74,120,15
+d4,Noodles,98,120,10
